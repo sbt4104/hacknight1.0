@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  hacknight3:
+    image: hacknight3
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
