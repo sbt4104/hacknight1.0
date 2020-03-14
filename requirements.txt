@@ -11,7 +11,7 @@ cymem==2.0.2
 Cython==0.29.13
 cytoolz==0.9.0.1
 dill==0.2.9
-Django==2.2.1
+Django==2.2.4
 django-background-tasks==1.2.0
 django-compat==1.0.15
 djangorestframework==3.10.1
